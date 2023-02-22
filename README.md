@@ -13,9 +13,10 @@ Click [here](https://stbuiemory.github.io/Do-You-Know-Code-JavaScript/) to go to
 ## 💻 Installation
 
 ```sh
-🎯 We were not given a starter code and were asked to create our own based on the sample application provided in Module 4 challenge.
-🎯 The application needs to generate a quiz that is complete with a questions, multiple-choice answers,
-timer, and high scores.
+🎯 We were not given a starter code and were asked to create our own based on the sample 
+application provided in Module 4 challenge.
+🎯 The application needs to generate a quiz that is complete with a questions, multiple-choice 
+answers, timer, and high scores.
 ```
 ## 🎬 Usage
 
