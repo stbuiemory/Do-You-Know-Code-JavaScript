@@ -1,7 +1,7 @@
 // Quiz
 var questions = [
     {
-      title: "Which of the following is a disadvantage of using JavaScript",
+      title: "Which of the following is a disadvantage of using JavaScript?",
       choices: ["Client-side JavaScript does not allow the reading or writing of files.",
        "JavaScript cannot be used for Networking applications because there is no such support available.",
         "JavaScript doesn't have any multithreading or multiprocess capabilities.", 
