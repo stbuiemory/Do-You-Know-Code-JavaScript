@@ -1,29 +1,31 @@
-<h1 align="center">🔒 Do You Know Code Quiz 🔒</h1>
+<h1 align="center">🧠 Do You Know Javascript Quiz 🧠</h1>
 
 ```sh
 
-Have you ever been frustrated with not being able to create a password, especially given all the different requirements 
-each website or application needs?  I have solved that problem with this awesome tool, which will easily create a 
-password for you and save you time and headaches.
+This application will test your basic knowledge of Javascript.  Good luck!
 
 ```
 
-### 🏠 Homepage
+## 🏠 Homepage
 
-Click [here](https://stbuiemory.github.io/Do-You-Know-Code-Quiz/) to go to the website.
+Click [here](https://stbuiemory.github.io/Do-You-Know-Code-JavaScript/) to go to the website.
 
 ## 💻 Installation
 
 ```sh
-🎯 We were given an incomplete starter code to review, analyze and adjust to meet certain criteria.
-🎯 The application needs to generate a quiz ........
+🎯 We were not given a starter code and were asked to create our own based on the sample application provided in Module 4 challenge.
+🎯 The application needs to generate a quiz that is complete with a questions, multiple-choice answers,
+timer, and high scores.
 ```
 ## 🎬 Usage
 
 ```sh
-🤩 Below is a screenshot and the window prompts the user will see.
+🤩 Below is a screenshot of what the user can expect.
 ```
-![Screenshot of the final product](./assets/Screenshot_password%20generator.png)
+![Screenshot of the final product](./assets/screenshot_of_jsquiz.jpg)
+![Screenshot of the question](./assets/screenshot_question%201.jpg)
+![Screenshot for entering score](./assets/screenshot_enterscore.jpg)
+![Screenshot of high scores](./assets/screenshot_highscores.jpg)
 
 ## ⚙️ Testing
 
@@ -31,9 +33,9 @@ Click [here](https://stbuiemory.github.io/Do-You-Know-Code-Quiz/) to go to the w
 🛠️ The website launched well and presented the criteria that the user needs.
 ```
 
-## 🤝 Contributing
+## 🤝 Contributors
 
-There were no contributors on this project.
+Questions credited to this [third-party site](https://www.tutorialspoint.com/javascript/javascript_online_quiz.htm).
 
 ## 📝 License
 
