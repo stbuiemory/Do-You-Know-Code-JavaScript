@@ -10,14 +10,13 @@ password for you and save you time and headaches.
 
 ### 🏠 Homepage
 
-Click [here](https://stbuiemory.github.io/Make_Me_A_Password/) to go to the website.
+Click [here](https://stbuiemory.github.io/Do-You-Know-Code-Quiz/) to go to the website.
 
 ## 💻 Installation
 
 ```sh
 🎯 We were given an incomplete starter code to review, analyze and adjust to meet certain criteria.
-🎯 The application needs to generate a password with a length between 8-128 characters whilst giving the user the choice 
-between lower case, upper case, numbers and/or special characters.
+🎯 The application needs to generate a quiz ........
 ```
 ## 🎬 Usage
 
@@ -25,11 +24,6 @@ between lower case, upper case, numbers and/or special characters.
 🤩 Below is a screenshot and the window prompts the user will see.
 ```
 ![Screenshot of the final product](./assets/Screenshot_password%20generator.png)
-![Screenshot of the window prompt 1](./assets/Screenshot_pwlength.png)
-![Screenshot of the window prompt 2](./assets/Screenshot_lowercase.png)
-![Screenshot of the window prompt 3](./assets/Screenshot_uppercase.png)
-![Screenshot of the window prompt 4](./assets/Screenshot_numbers.png)
-![Screenshot of the window prompt 5](./assets/Screenshot_special.png)
 
 ## ⚙️ Testing
 
